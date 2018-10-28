@@ -16,4 +16,11 @@ sta.connect("Wifi", "pwd")
 
 import ftp.ftp as ftp
 ftp.ftpserver()
-'''
+```
+
+
+Some video:
+
+[Try change partition](https://youtu.be/fImFlty40GY).
+[Test OTA server](https://www.youtube.com/watch?v=_ywJw2IqUIYY).
+
