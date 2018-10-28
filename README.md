@@ -2,10 +2,10 @@
 Micropython Ota: server, firmware
 
 
-##Server OTA: 
+## Server OTA: 
 Use aiohttp with StreamResponse:
 
-##Firmware with OTA:
+## Firmware with OTA:
 Inside FTP server for first upload files.
 
 ```python
